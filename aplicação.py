@@ -1,4 +1,4 @@
-from bprettytale import PrettyTable
+from prettytable import PrettyTable
 # Informações necessárias para a criação do boletim
 print("\033[34m>>>>>>>>>>>CRIADOR DE BOLETIM<<<<<<<<<<\033[m")
 print("Digite seus dados abaixo para ter acesso ao seu boletim:")
